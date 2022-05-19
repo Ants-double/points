@@ -1,0 +1,33 @@
+{
+    "title": "身体健康",
+    "topicWidth": 250,
+    "openLevel": 1,
+    "topics": [
+    {
+      "id": "01",
+      "name": "身体健康是什么？",
+      "src": "/static/01_separate/what.md"
+    },
+    {
+        "id": "02",
+        "name": "JAVA基础",
+        "submenus": [
+        {
+            "id": "0201",
+            "name": "JAVA概念",
+            "src": "/static/JAVA/how.md"
+        },
+        {
+            "id": "0202",
+            "name": "JAVA代码",
+            "src": "/static/JAVA/edit.md"
+        },
+        {
+            "id": "0203",
+            "name": "相关说明",
+            "src": "/static/JAVA/java_base_readme.md"
+        }
+      ]
+    }
+  ]
+}
