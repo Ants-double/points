@@ -14,18 +14,25 @@
         "submenus": [
         {
             "id": "0201",
-            "name": "JAVA概念",
-            "src": "/static/JAVA/how.md"
+            "name": "JAVA概念",           
+            "submenus": [
+              {
+                "id": "020101",
+                "name": "接口",
+                "src": "/static/JAVA/JAVA8/interface.md"
+              }           
+
+            ]
         },
         {
             "id": "0202",
             "name": "JAVA代码",
-            "src": "/static/JAVA/edit.md"
+            "src": "/static/JAVA/code.md"
         },
         {
             "id": "0203",
             "name": "相关说明",
-            "src": "/static/JAVA/java_base_readme.md"
+            "src": "/static/JAVA/readme.md"
         }
       ]
     }
