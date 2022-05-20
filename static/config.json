@@ -35,6 +35,17 @@
             "src": "/static/JAVA/readme.md"
         }
       ]
+    },
+    {
+      "id": "03",
+      "name": "读书笔记",
+      "submenus":[
+        {
+          "id": "0301",
+          "name": "Spring技术内幕",
+          "src": "/static/read_book/Spring技术内幕.md"
+        }
+      ]
     }
   ]
 }
